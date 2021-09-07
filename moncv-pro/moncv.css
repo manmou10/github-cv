@@ -1,0 +1,198 @@
+.toutmoncv{ width: 700px;
+    height: 800px;
+    border: 1px;
+    margin: auto;
+    background-color: aqua;
+
+}
+
+.partiegauche{ width: 250px;
+    height: 800px;
+    background-color: rgb(13, 13, 49);
+
+}
+
+img{ border-radius: 100px;
+    margin-left: 40px;
+    align-items: center;
+
+}
+.moti{ text-align: justify;
+    color: white;
+    margin-left: 25px;
+    margin-right: 17px;
+
+}
+
+h3{ align-items: center;
+    color: white;
+    margin-left: 16px;
+
+}
+h2{ color: white;
+    width: 160px;
+    text-align: center;
+    margin-left: 30px;
+    background-color: rgb(41, 28, 119);
+}
+.ictel{ position: relative;
+    margin-left: -7px;
+    top: 5px;
+
+}   
+
+
+.tel{ margin-left: -10px;
+    position: relative;
+    color: white;
+    bottom: 35px;
+    text-align: center; 
+
+}
+.icmail{ margin-left: -7px;
+    bottom: 27px;
+    position: relative;
+
+}
+
+.mail{ color: white;
+    margin-left: 62px;
+position: relative;
+bottom: 40px;
+}
+
+.icempla{ position: relative;
+    margin-left: -7px;
+    bottom: 70px;
+
+}
+
+.lieu{ color: white;
+    position: relative;
+    margin-left: 60px;
+    bottom: 39px;
+
+}
+
+.loi{ color: white;
+    width: 130px;
+    bottom: 100px;
+    font-size: x-large;
+    height: 27px;
+    position: relative;
+    margin-left: 40px;
+    text-align: center;
+    background-color: rgb(41, 41, 110);
+
+}
+
+.list{ position: relative;
+    align-items: center;
+    color: white;
+    bottom: 100px;
+    margin-left: 40px;
+
+}
+
+.partiedroite{ width: 450px;
+    height: 750px;
+    margin: auto;
+
+}
+
+h1{ position: relative;
+    bottom: 750px;
+    color: white;
+    font-size: x-large;
+    width: 170px;
+    text-align: center;
+    height: 40px;
+    margin-left: 160px;
+    background-color: rgb(41, 41, 116);
+
+}
+.annees{ position: relative;
+    margin-left: 130px;
+    color: black;
+    bottom: 725px;
+    text-align: justify;
+
+}
+.diplomes{ color: black;
+    text-align: justify;
+    bottom: 828px;
+    margin-left: 167px;
+    position: relative;
+    margin-right: 13px;
+
+}
+
+.ti{ position: relative;
+    top: 36px;
+}
+
+.ant{ position: relative;
+    top: 54px;
+}
+h4{ width: 260px;
+    color: white;
+    height: 65px;
+    margin-left: 180px;
+    position: relative;
+    bottom: 820px;
+    font-size: x-large;
+    text-align: center;
+    background-color: rgb(37, 37, 102);
+
+}
+.anndex{ color: black;
+    text-align: justify;
+    bottom: 798px;
+    position: relative;
+    margin-left: 132px;
+
+}
+.exper{ color: black;
+    position: relative;
+    text-align: justify;
+    margin-left: 216px;
+    bottom: 903px;
+    margin-right: 34px;
+
+}
+.ann{ position: relative;
+    top: 54px;
+    margin-left: 5px;
+}
+
+.ense{ position: relative;
+    top: 70px;
+}
+h5{ width: 200px;
+    margin-left: 160px;
+    font-size: x-large;
+    position: relative;
+    height: 40px;
+    text-align: center;
+    bottom: 900px;
+    color: white;
+    background-color: rgb(41, 41, 100);
+
+}
+
+h6{ color: rgb(40, 40, 97);
+    margin-left: 150px;
+    position: relative;
+    bottom: 930px;
+    width: auto;
+    font-size: large;
+
+}
+
+ul{ color: rgb(41, 41, 109);
+    margin-left: 140px;
+    
+    position: relative;
+    bottom: 960px;
+
+}
